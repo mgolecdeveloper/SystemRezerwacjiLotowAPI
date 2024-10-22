@@ -1,0 +1,6 @@
+@SystemRezerwacjiLotow.Api_HostAddress = http://localhost:5052
+
+GET {{SystemRezerwacjiLotow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
